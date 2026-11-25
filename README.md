@@ -1,5 +1,7 @@
 # YSN Smart Alarm
 
+Featured in the [YSN Portfolio](https://yuvrajsinghnegi.vercel.app/#projects).
+
 A browser-based alarm experience with timer and stopwatch tools, multiple themes, and configurable wake-up missions.
 
 ![YSN Smart Alarm interface](https://yuvrajsinghnegi.vercel.app/images/projects/ysn-alarm.webp)
